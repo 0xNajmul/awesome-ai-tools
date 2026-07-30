@@ -106,6 +106,7 @@
 | Leonardo AI | https://leonardo.ai | AI platform for generating game assets, art, and design images. |
 | Ideogram | https://ideogram.ai | AI image generator known for accurate text rendering in images. |
 | Canva AI (Magic Studio) | https://canva.com | Design platform with AI image generation, editing, and background tools. |
+| AIImageChanger.app | https://aiimagechanger.app/ | Browser-based AI image editor for changing backgrounds, objects, clothing, colors, and styles with plain-language prompts. |
 | Playground AI | https://playground.com | Free-to-use AI image generator and editor for creators. |
 | Recraft | https://recraft.ai | AI design tool for generating vector graphics, icons, and brand assets. |
 | Artbreeder | https://artbreeder.com | AI tool for blending and evolving images into new artwork. |
