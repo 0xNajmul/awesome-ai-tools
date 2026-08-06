@@ -116,6 +116,7 @@
 | Remove.bg | https://remove.bg | AI-powered instant background remover for images. |
 | Krea AI | https://krea.ai | Real-time AI image and video generation and enhancement tool. |
 | Magnific AI | https://magnific.ai | AI image upscaler and enhancer for ultra-realistic detail. |
+| Metadata Remover | https://metadataremover.ai/ai-metadata-remover | Free local tool for removing prompts, seeds, model names and workflow data from AI-generated images without uploading them. |
 
 ## 4. AI Video Generation & Editing
 
