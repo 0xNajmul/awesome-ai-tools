@@ -136,6 +136,7 @@
 | Vmake | https://vmake.ai | AI video enhancer that upscales and sharpens low-quality video to HD/4K. |
 | Invideo AI | https://invideo.io | AI tool that generates full videos from a simple text prompt. |
 | Pictory | https://pictory.ai | AI tool for turning scripts/blogs into short branded videos. |
+| videos.social | https://videos.social/?utm_source=0xnajmul-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d | Turns blogs, PDFs, and prompts into editable faceless videos. |
 | Fliki | https://fliki.ai | AI text-to-video and text-to-speech content creation tool. |
 | Wondershare Filmora | https://filmora.wondershare.com | Video editor with integrated AI editing and effects tools. |
 | Topaz Video AI | https://topazlabs.com/topaz-video-ai | AI video upscaling and frame interpolation software. |
