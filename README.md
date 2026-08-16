@@ -185,6 +185,7 @@
 
 | Tool | Website | Description |
 |---|---|---|
+| Agent QA | https://github.com/vostride/agent-qa | Source-available tool for writing and running natural-language web and mobile tests through a CLI, dashboard, and MCP server. |
 | GitHub Copilot | https://github.com/features/copilot | AI pair programmer that autocompletes and generates code inside your IDE. |
 | Cursor | https://cursor.com | AI-first code editor built for fast, natural-language-driven coding. |
 | Claude Code | https://claude.com/product/claude-code | Anthropic's agentic coding tool for delegating dev tasks from the terminal. |
