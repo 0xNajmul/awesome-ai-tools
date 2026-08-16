@@ -187,6 +187,7 @@
 |---|---|---|
 | GitHub Copilot | https://github.com/features/copilot | AI pair programmer that autocompletes and generates code inside your IDE. |
 | Cursor | https://cursor.com | AI-first code editor built for fast, natural-language-driven coding. |
+| Agent QA | https://github.com/vostride/agent-qa | Source-available application QA harness for natural-language web and mobile tests, with an MCP server, persistent execution memory, and self-healing flows. |
 | Claude Code | https://claude.com/product/claude-code | Anthropic's agentic coding tool for delegating dev tasks from the terminal. |
 | Replit AI (Ghostwriter) | https://replit.com | AI coding assistant built into the Replit cloud IDE. |
 | Codeium (Windsurf) | https://windsurf.com | Free AI code completion and agentic coding assistant. |
