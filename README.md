@@ -264,6 +264,7 @@
 | Clearscope | https://clearscope.io | AI-driven content optimization tool for SEO writers. |
 | HubSpot AI | https://hubspot.com | AI-powered CRM and marketing automation platform. |
 | AdCreative.ai | https://adcreative.ai | AI tool that generates high-converting ad creatives and banners. |
+| AdMapix | https://www.admapix.com | AI-powered ad intelligence platform for competitor creative research, campaign comparison, and product and market trend analysis. |
 | Jasper for Marketing | https://jasper.ai | AI marketing copy and campaign generation platform. |
 
 ## 14. AI Sales & CRM
