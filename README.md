@@ -140,6 +140,7 @@
 | Wondershare Filmora | https://filmora.wondershare.com | Video editor with integrated AI editing and effects tools. |
 | Topaz Video AI | https://topazlabs.com/topaz-video-ai | AI video upscaling and frame interpolation software. |
 | Elai.io | https://elai.io | AI avatar video generator for corporate and training content. |
+| SEELE TV | https://seele.tv/ | Browser-based AI video creation studio. |
 
 ## 5. YouTube, Video Analytics & Creator Tools
 
