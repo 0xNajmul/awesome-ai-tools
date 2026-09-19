@@ -167,6 +167,7 @@
 | Speechify | https://speechify.com | AI text-to-speech reader app for articles, PDFs, and books. |
 | Descript Overdub | https://descript.com | AI voice cloning feature integrated into Descript's editor. |
 | LOVO AI | https://lovo.ai | AI voice generator and video creation platform with 500+ voices. |
+| Workforce Wave | https://www.workforcewave.com/ | AI voice agents and virtual receptionists for business call answering, appointment booking, lead capture, and after-hours routing. |
 | Voicemod | https://voicemod.io | Real-time AI voice changer for streaming and gaming. |
 
 ## 7. AI Music Generation
