@@ -358,6 +358,7 @@
 | Tool | Website | Description |
 |---|---|---|
 | HireVue | https://hirevue.com | AI-driven video interviewing and candidate assessment platform. |
+| JobEmerge | https://www.jobemerge.work | AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal. |
 | Textio | https://textio.com | AI writing tool that optimizes job postings for better hires. |
 | Paradox (Olivia) | https://paradox.ai | AI recruiting assistant that automates candidate screening and scheduling. |
 | Eightfold AI | https://eightfold.ai | AI talent intelligence platform for recruiting and workforce planning. |
