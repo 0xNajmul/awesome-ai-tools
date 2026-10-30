@@ -4,6 +4,7 @@
 
 **Keywords:** best AI tools 2026, awesome AI tools list, AI tools directory, top AI apps, AI tools by category, free AI tools, AI SaaS tools, AI tools for YouTube, AI tools for marketing, AI tools for coding, AI video generators, AI writing tools, AI image generators, AI agents, generative AI tools.
 
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 ![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Maintained](https://img.shields.io/badge/maintained-yes-success.svg)
 
 ---
