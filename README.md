@@ -121,6 +121,7 @@
 
 | Tool | Website | Description |
 |---|---|---|
+| ReelAI | https://tryreelai.com/ | Paid photo-to-video tool with preset effects for short-form creators. |
 | Runway | https://runwayml.com | AI video generation and editing suite (Gen-4) for filmmakers and creators. |
 | Synthesia | https://synthesia.io | AI platform for creating videos with realistic AI avatars from text scripts. |
 | Google Veo | https://deepmind.google/technologies/veo | Google DeepMind's text/image-to-video generation model. |
