@@ -67,6 +67,7 @@
 | Poe | https://poe.com | Platform to chat with multiple AI models (GPT, Claude, Gemini, Llama) in one app. |
 | You.com | https://you.com | AI search assistant combining chat with web results and app integrations. |
 | Character.AI | https://character.ai | Platform for chatting with customizable AI personas and characters. |
+| Sammi: AI Girlfriend | [sammiai.app](https://sammiai.app/) | Android AI companion for fictional character text chat, voice interaction, customization, and creative roleplay. |
 | Pi by Inflection | https://pi.ai | Personal AI chatbot focused on supportive, conversational interactions. |
 | HuggingChat | https://huggingface.co/chat | Free open-source chatbot interface by Hugging Face supporting multiple open models. |
 | Kimi Chat | https://kimi.moonshot.cn | Moonshot AI's chatbot known for long-context document handling. |
